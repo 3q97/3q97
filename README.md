@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 ## 🌱 About Me
 
 - 💻 **Languages:** Python And JavaScript.
-- 📚 Currently learning C++ and exploring new technologies.
+- 📚 Currently learning C++.
 
 ## 🤝 Contact Me
 
